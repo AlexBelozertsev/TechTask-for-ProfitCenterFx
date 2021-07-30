@@ -1,0 +1,22 @@
+.Statistics {
+  width: 500px;
+  padding: 0px;
+  margin-bottom: 12px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.title {
+  text-align: center;
+  font-size: 26px;
+}
+
+.label {
+  font-size: 16px;
+}
+
+.percentage {
+  font-size: 18px;
+  font-weight: 600;
+  padding-left: 10px;
+}

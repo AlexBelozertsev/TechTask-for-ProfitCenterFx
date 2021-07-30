@@ -1,0 +1,15 @@
+.Form {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px auto;
+  width: 500px;
+  padding: 20px;
+  border: 1px solid white;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: 500;
+}
+.Form:hover {
+  box-shadow: 2px 3px 3px 2px rgba(0, 128, 128, 0.5);
+}
